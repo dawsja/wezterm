@@ -15,8 +15,8 @@ config.window_padding = {
 config.font_size = 12
 config.default_prog = { 'wsl.exe', '--cd', '~' }
 
---config.color_scheme = 'Tokyo Night (Gogh)'
+config.color_scheme = 'Tokyo Night (Gogh)'
 --config.win32_system_backdrop = 'Acrylic'
-config.window_background_opacity = 0.90
+--config.window_background_opacity = 0.90
 
 return config
