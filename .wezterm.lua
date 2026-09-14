@@ -1,10 +1,12 @@
 local wezterm = require('wezterm')
 local config = wezterm.config_builder()
 
+-- Window size and chrome
 config.initial_cols = 100
 config.initial_rows = 30
 config.enable_tab_bar = false
 
+-- Inner padding (pixels)
 config.window_padding = {
   left = 10,
   right = 10,
@@ -12,9 +14,11 @@ config.window_padding = {
   bottom = 10,
 }
 
+-- Font and default shell (WSL home)
 config.font_size = 12
 config.default_prog = { 'wsl.exe', '--cd', '~' }
 
+-- Theme; acrylic/opacity left disabled
 config.color_scheme = 'Tokyo Night (Gogh)'
 --config.win32_system_backdrop = 'Acrylic'
 --config.window_background_opacity = 0.90
