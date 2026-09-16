@@ -20,6 +20,15 @@ config.default_prog = { 'wsl.exe', '--cd', '~' }
 
 -- Theme; acrylic/opacity left disabled
 config.color_scheme = 'Tokyo Night (Gogh)'
+
+-- Other popular schemes to try; uncomment one (and comment out the line above)
+--config.color_scheme = 'Dracula (Official)'
+--config.color_scheme = 'Nord (Gogh)'
+--config.color_scheme = 'Gruvbox Dark (Gogh)'
+--config.color_scheme = 'Catppuccin Mocha'
+--config.color_scheme = 'Tokyo Night Storm'
+--config.color_scheme = 'Solarized Dark - Patched'
+
 --config.win32_system_backdrop = 'Acrylic'
 --config.window_background_opacity = 0.90
 

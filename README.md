@@ -14,3 +14,5 @@ Copy or symlink `.wezterm.lua` to your WezTerm config location (typically `~/.we
 - Color scheme: Tokyo Night (Gogh)
 
 Acrylic backdrop and window opacity are present but commented out.
+
+A few other popular schemes (Dracula, Nord, Gruvbox, Catppuccin, Tokyo Night Storm, Solarized) are listed as commented-out `config.color_scheme` lines — uncomment one to try it.
