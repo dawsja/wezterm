@@ -28,6 +28,11 @@ config.color_scheme = 'Tokyo Night (Gogh)'
 --config.color_scheme = 'Catppuccin Mocha'
 --config.color_scheme = 'Tokyo Night Storm'
 --config.color_scheme = 'Solarized Dark - Patched'
+--config.color_scheme = 'Kanagawa (Gogh)'
+--config.color_scheme = 'Rosé Pine (Gogh)'
+--config.color_scheme = 'Everforest Dark (Gogh)'
+--config.color_scheme = 'Ayu Mirage'
+--config.color_scheme = 'One Dark (Gogh)'
 
 --config.win32_system_backdrop = 'Acrylic'
 --config.window_background_opacity = 0.90
